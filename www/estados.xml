@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estados>
+   <estado>
+      <sigla>AC</sigla>
+      <nome>Acre</nome>
+      <capital>Rio Branco</capital>
+   </estado>
+   <estado>
+      <sigla>AL</sigla>
+      <nome>Alagoas</nome>
+      <capital>Maceio</capital>
+   </estado>
+   <estado>
+      <sigla>AM</sigla>
+      <nome>Amazonas</nome>
+      <capital>Manaus</capital>
+   </estado>
+   <estado>
+      <sigla>AP</sigla>
+      <nome>Amapá</nome>
+      <capital>Macapá/capital>
+   </estado>
+   <estado>
+      <sigla>BA</sigla>
+      <nome>Bahia</nome>
+      <capital>Salvador</capital>
+   </estado>
+   <estado>
+      <sigla>CE</sigla>
+      <nome>Ceará</nome>
+      <capital>Fortaleza</capital>
+   </estado>
+   <estado>
+      <sigla>DF</sigla>
+      <nome>Distrito Federal</nome>
+      <capital>Brasília</capital>
+   </estado>
+   <estado>
+      <sigla>ES</sigla>
+      <nome>Espírito Santo</signome>
+      <capital>Vitória</capital>
+   </estado>
+   <estado>
+      <sigla>GO</sigla>
+      <nome>Goias</nome>
+      <capital>Goiania</capital>
+   </estado>
+   <estado>
+      <sigla>MA</sigla>
+      <nome>Maranhão</nome>
+      <capital>São Luis</capital>
+   </estado>
+   <estado>
+      <sigla>MG</sigla>
+      <nome>Minas Gerais</nome>
+      <capital>Belo Horizonte</capital>
+   </estado>
+   <estado>
+      <sigla>MS</sigla>
+      <nome>Mato Grosso do Sul</nome>
+      <capital>Campo Grande</capital>
+   </estado>
+   <estado>
+      <sigla>MT</sigla>
+      <nome>Mato Grosso</nome>
+      <capital>Cuiabá</capital>
+   </estado>
+   <estado>
+      <sigla>PA</sigla>
+      <nome>Pará</nome>
+      <capital>Belém</capital>
+   </estado>
+   <estado>
+      <sigla>PB</sigla>
+      <nome>Paraíba</nome>
+      <capital>João Pessoa</capital>
+   </estado>
+   <estado>
+      <sigla>PE</sigla>
+      <nome>Pernambuco</nome>
+      <capital>Recife</capital>
+   </estado>
+   <estado>
+      <sigla>PI</sigla>
+      <nome>Piaui</nome>
+      <capital>Teresina</capital>
+   </estado>
+   <estado>
+      <sigla>PR</sigla>
+      <nome>Paraná</nome>
+      <capital>Curitiba</capital>
+   </estado>
+   <estado>
+      <sigla>RJ</sigla>
+      <nome>Rio de Janeiro</nome>
+      <capital>Rio de Janeiro</capital>
+   </estado>
+   <estado>
+      <sigla>RN</sigla>
+      <nome>Rio Grande do Norte</nome>
+      <capital>Natal</capital>
+   </estado>
+   <estado>
+      <sigla>RO</sigla>
+      <nome>Rondônia</nome>
+      <capital>Porto Velho</capital>
+   </estado>
+   <estado>
+      <sigla>RR</sigla>
+      <nome>Roraima</nome>
+      <capital>Boa Vista</capital>
+   </estado>
+   <estado>
+      <sigla>RS</sigla>
+      <nome>Rio Grande do Sul</nome>
+      <capital>Porto Alegre</capital>
+   </estado>
+   <estado>
+      <sigla>SC</sigla>
+      <nome>Santa Catarina</nome>
+      <capital>Florianópolis</capital>
+   </estado>
+   <estado>
+      <sigla>SE</sigla>
+      <nome>Sergipe</nome>
+      <capital>Aracajú</capital>
+   </estado>
+   <estado>
+      <sigla>SP</sigla>
+      <nome>São Paulo</nome>
+      <capital>São Paulo</capital>
+   </estado>
+   <estado>
+      <sigla>TO</sigla>
+      <nome>Tocantins</nome>
+      <capital>Palmas</capital>
+   </estado>
+</estados>
